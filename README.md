@@ -51,6 +51,24 @@ with respect to orthography.
 
 ![Figure 2 updated 12 Apr 2020](JPGs/trigrams_001.jpg)
 
+### quoteless vs. quoteful samples
+
+(*include quoteless versions of bi- and tri-gram analyses*)
+
+I did not make any attempt to eliminate quotations from the samples for
+the either the *Rem non novam* or ICMCL presentation. The question of
+whether or not quotations within Gratian's *dicta* effected PCA results
+only came to my attention when I started working with the XML text of
+Peter Lombard's *Sentences* provided by the Scholastic Commentaries and
+Texts Archive (SCTA), in which quotations were explicitly tagged.
+Excluding quotations from the *dicta* however did not make any
+substantive difference in PCA results based on function word
+frequencies. (**What about lemmas?**) The *dicta*, especially in the
+first recension, contain numerous biblical passages, likely quoted from
+memory. Such quotation from memory would tend to preserve the authorial
+signal produced by the selection of function words at a subconscious
+level.
+
 [1] Spaces between words count for the purpose of decomposing a sample
 of text into its constituent n-grams. It is therefore immediately
 apparent which n-grams represent inflectional endings in a sample of
