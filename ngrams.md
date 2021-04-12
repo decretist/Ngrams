@@ -36,11 +36,12 @@ been at least one notable and well-received attribution of authorship
 of a medieval text, *Beowulf*, based on PCA of n-gram frequencies.
 In a 2019 paper, Neidorf, Krieger, and Yakubek present the statistical
 frequency of character bigrams in the text as stylometric evidence
-"consistent with the unitary authorship of *Beowulf*."[^2] The article's
-finding that *Beowulf* is the product of unitary authorship supported
-an argument advanced by J.R.R. Tolkien in the twentieth century,
-and the study therefore attracted a significant amount of coverage
-from non-specialist publications in addition to scholarly attention.
+"consistent with the unitary authorship of *Beowulf*."[^2] The
+article's finding that *Beowulf* is the product of unitary authorship
+supported an argument advanced by J.R.R. Tolkien in the twentieth
+century, and the study therefore attracted a significant amount of
+coverage from non-specialist publications in addition to scholarly
+attention.
 
 Kestemont, *et al.*, avoided using character n-grams in their
 analysis of the letters of Hildegard of Binge, Guibert of Gembloux,
