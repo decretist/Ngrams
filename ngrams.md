@@ -52,13 +52,44 @@ concern does not arise in the analysis of the *dicta* from Gratian's
 editor, Emil Friedberg, and are therefore highly (although not
 absolutely perfectly) consistent with respect to orthography.
 
+Figure 1 and Figure 2 below represent PCA results for the 80 most
+frequent bi- and trigrams, but the following qualitative observations
+are also valid at values for the number of features (n-grams)
+analysed between 20 and 100.
+
+- the case statements are well-separated from the clusters representing
+the other samples, consistent with the finding that they were not
+written by the authors of either the first- or second-recension
+*dicta*.
+
+- the *dicta* from *de Penitentia* are on the edges of, but not
+distinctly separated from, the clusters representing the first- and
+second-recension *dicta*.
+
+- the cluster representing the first-recension *dicta* is more
+diffuse than might be expected in the case of a text unambiguously
+associated with a single author.
+
+- the relationship between the clusters representing the first- and
+second- recension *dicta* appears somewhat differently in the bigram
+and trigram analyses.  In the bigram analysis, the second-recension
+*dicta* seem to be well within the circle of (presumably) collaborative
+authorship of the first-recension *dicta*. This would imply that
+the second-recension dicta were written by a subset of the origin
+authors of the first-recension *dicta*. In the trigram analysis on
+the other hand, the cluster representing the second-recension *dicta*
+is in the same relationship with the cluster representing the
+first-recension *dicta* as the cluster representing the *dicta*
+from *de Penitentia* is. In other words, it is close, but not
+unambiguously the work of the same author.
+
 ![Figure 1 updated 12 Apr 2020](JPGs/bigrams_001.jpg)
 
 ![Figure 2 updated 12 Apr 2020](JPGs/trigrams_001.jpg)
 
 ### quoteless vs. quoteful samples
 
-(*include quoteless versions of bi- and tri-gram analyses*)
+(**include quoteless versions of bi- and tri-gram analyses**)
 
 I did not make any attempt to eliminate quotations from the samples
 for the either the *Rem non novam* or ICMCL presentation. The
@@ -66,9 +97,9 @@ question of whether or not quotations within Gratian's *dicta*
 effected PCA results only came to my attention when I started working
 with the XML text of Peter Lombard's *Sentences* provided by the
 Scholastic Commentaries and Texts Archive (SCTA), in which quotations
-were explicitly tagged. Excluding quotations from the *dicta* however
-did not make any substantive difference in PCA results based on
-function word frequencies. (**What about lemmas?**) The *dicta*,
+were explicitly tagged. Excluding quotations from Gratian's *dicta*
+however did not make any substantive difference in PCA results based
+on function word frequencies. (**What about lemmas?**) The *dicta*,
 especially in the first recension, contain numerous biblical passages,
 likely quoted from memory. Such quotation from memory would tend
 to preserve the authorial signal produced by the selection of
