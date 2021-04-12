@@ -47,6 +47,10 @@ all of the text samples are the work of a single editor, Emil Friedberg,
 and are therefore highly (although not perfectly) consistent with
 respect to orthography.
 
+![Figure 1 updated 12 Apr 2020](JPGs/bigrams_001.jpg)
+
+![Figure 2 updated 12 Apr 2020](JPGs/trigrams_001.jpg)
+
 [1] Spaces between words count for the purpose of decomposing a text
 into its constituent n-grams. It is therefore immediately apparent which
 n-grams represent inflectional endings in a sample of Latin text. “um”,
