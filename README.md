@@ -50,7 +50,9 @@ with respect to orthography.
 Figure 1 and Figure 2 below represent PCA results for the 80 most
 frequent bi- and trigrams, but the following qualitative observations
 are also valid at values for the number of features (n-grams) analysed
-between 20 and 100.
+between 20 and 100. In all cases, the values for PC1 and PC2 are high
+enough (PC1 &gt; 10%, PC2 &gt; 5%) to indicate that the results are
+statistically significant.
 
 -   the case statements are well-separated from the clusters
     representing the other samples, consistent with the finding that
@@ -68,15 +70,15 @@ between 20 and 100.
 -   the relationship between the clusters representing the first- and
     second- recension *dicta* appears somewhat differently in the bigram
     and trigram analyses. In the bigram analysis, the second-recension
-    *dicta* seem to be well within the circle of (presumably)
-    collaborative authorship of the first-recension *dicta*. This would
-    imply that the second-recension dicta were written by a subset of
-    the origin authors of the first-recension *dicta*. In the trigram
-    analysis on the other hand, the cluster representing the
-    second-recension *dicta* is in the same relationship with the
-    cluster representing the first-recension *dicta* as the cluster
-    representing the *dicta* from *de Penitentia* is. In other words, it
-    is close, but not unambiguously the work of the same author.
+    *dicta* seem to be within the boundaries of presumably collaborative
+    authorship of the first-recension *dicta*. This would imply that the
+    second-recension *dicta* were written by a subset of the original
+    authors of the first-recension *dicta*. In the trigram analysis on
+    the other hand, the cluster representing the second-recension
+    *dicta* is in the same relationship with the cluster representing
+    the first-recension *dicta* as the cluster representing the *dicta*
+    from *de Penitentia* is. In other words, it is close, but not
+    unambiguously the work of the same author.
 
 ![Figure 1 updated 12 Apr 2020](JPGs/bigrams_001.jpg)
 
