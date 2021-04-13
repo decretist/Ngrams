@@ -7,6 +7,7 @@ library(stylo)
 
 stylo.results = stylo(
   gui = TRUE,
+  corpus.dir = "corpora/final",
   corpus.lang = "Latin.corr",
   analyzed.features = "c",
   ngram.size = 2,
@@ -23,6 +24,7 @@ print(stylo.results$features.actually.used)
 
 stylo.results = stylo(
   gui = TRUE,
+  corpus.dir = "corpora/final",
   corpus.lang = "Latin.corr",
   analyzed.features = "c",
   ngram.size = 3,
@@ -36,3 +38,4 @@ stylo.results = stylo(
 )
 # summary(stylo.results)
 print(stylo.results$features.actually.used)
+
